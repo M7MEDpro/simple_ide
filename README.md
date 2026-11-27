@@ -1,6 +1,6 @@
 # SimpleIDE
 
-A lightweight desktop IDE for Windows built with Flutter and Riverpod. It delegates compiling, running, and tooling to the compilers and build systems already installed on your machine (`gcc`, `g++`, `python`, `java`, `dart`, `node`, `go`, `rustc`, `cmake`, `gradle`, `cargo`, etc.), with zero native Windows plugin dependencies.
+A lightweight desktop IDE for Windows built with Flutter and Riverpod (typical memory footprint ~50–100 MB). It delegates compiling, running, and tooling to the compilers and build systems already installed on your machine (`gcc`, `g++`, `python`, `java`, `dart`, `node`, `go`, `rustc`, `cmake`, `gradle`, `cargo`, etc.), with zero native Windows plugin dependencies.
 
 ## Features
 
